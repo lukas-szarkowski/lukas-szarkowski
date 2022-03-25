@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there! 👋
 
+<div size='20px'> Hi, my name is Lukas. I want to become a front end developer in the near future. Thank You for taking the time to view my GitHub Profile.
+</div>
+
+
+🌱 I’m currently learning Javascript and React.
 <!--
 **lukas-szarkowski/lukas-szarkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
